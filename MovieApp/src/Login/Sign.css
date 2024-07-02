@@ -1,0 +1,35 @@
+form label{
+    margin-bottom: 5px;
+    font-size: 17px;
+    font-weight: bold;
+}
+form input{
+    padding: 8px;
+    /* border: none; */
+    border-radius: 10px;
+    outline: none;
+}
+form button{
+    border-radius: 10px;
+    background-color: rgb(235, 189, 91);
+    font-size: 18px;
+    font-weight: 600;
+    padding: 6px;
+}
+form span{
+    cursor: pointer;
+    color: rgb(173, 121, 7);
+    font-weight: 600;
+}
+.box{
+    
+    /* max-width: 1200px; */
+    display: flex;
+    justify-content: center;
+}
+form{
+    margin-top: 50px;
+    padding: 50px;
+    background-color: #f8d3a8;
+    border-radius: 10px;
+}
